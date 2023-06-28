@@ -1,7 +1,6 @@
-- Hi, I’m @voltabit. 
-- I was a technical writer and I learned some programming—enough to get the job done.
-- I’m currently relearning Javascript.
-- My current goal is to become a web developer. 
+- Hi, I’m @voltabit.
+- I work as a technical writer and now I’m learning Javascript.
+- My current goal is to become a web developer.
 - I’m open to collaborate on any project.
 
 <!---
